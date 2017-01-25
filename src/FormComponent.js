@@ -102,6 +102,7 @@ class FormComponent extends React.Component {
     const { Questions } = formObj;//ES6 Destructuring
     return (
       <div className="form-container">
+        <p>Multiple Choice Question.All Question are mandatory</p>
         <form ref="form" onSubmit={(event) => this.onSubmitForm(event)}>
           {this.renderQuestions(Questions)}
           <button type="submit">Submit</button>
