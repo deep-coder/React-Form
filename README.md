@@ -1,3 +1,4 @@
 To Start 
 
-type 'npm start'
+1. type 'npm install'
+2. type 'npm start'
