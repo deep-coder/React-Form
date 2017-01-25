@@ -1,0 +1,23 @@
+.App {
+}
+
+.App-header {
+  background-color: #009688;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+.form-container{
+  padding: 2em;
+}
+
+.form-container button{
+  border: 0px;
+  padding: 10px;
+    margin: 3em;
+}
+
+.option-box{
+  padding-left: 1em;
+}
+
